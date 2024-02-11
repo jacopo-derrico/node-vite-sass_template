@@ -27,3 +27,15 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Install Axios for API
+
+```sh
+npm install axios
+```
+
+### Import Axios in App.vue
+
+```js
+import axios from 'axios';
+```
